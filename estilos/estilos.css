@@ -11,6 +11,12 @@ body {
     background-color: black;
     border: 1px solid white;
    
+   
+}
+.nav-active {
+    font-weight: bold;
+    color: whitesmoke; 
+    text-decoration: underline;
 }
 ul {
     margin: 0px;
@@ -27,7 +33,7 @@ ul {
   }
 
 h1 {
-    font-size: 35px;
+    font-size: 30px;
 }
 
 p {
@@ -64,6 +70,7 @@ p {
     text-align: center;
     padding: 30px;
     margin: 8px;
+    bottom: 0;
 }
 
 #imagen_long {
